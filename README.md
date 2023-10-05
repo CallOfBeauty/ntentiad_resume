@@ -1,5 +1,4 @@
-**Dimitrios Ntentia**
-[Ntentia_Dimitrios_Resume.pdf](https://github.com/CallOfBeauty/ntentiad_resume/files/12822308/Ntentia_Dimitrios_Resume.pdf)
+[**Dimitrios Ntentia**](https://github.com/CallOfBeauty/ntentiad_resume/files/12822308/Ntentia_Dimitrios_Resume.pdf)
 
 ![](Aspose.Words.642c8175-63c6-49fd-88d2-bf8aedb152b6.001.png) [| dntentia@gmail.com | +](mailto:dntentia@gmail.com)1 (859) 391 8281 ![](Aspose.Words.642c8175-63c6-49fd-88d2-bf8aedb152b6.002.png)![](Aspose.Words.642c8175-63c6-49fd-88d2-bf8aedb152b6.003.png)
 
