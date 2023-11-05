@@ -1,76 +1,133 @@
-[**Dimitrios Ntentia**](https://github.com/CallOfBeauty/ntentiad_resume/files/12822308/Ntentia_Dimitrios_Resume.pdf)
+> **DIMITRIOS** **NTENTIA**(/Dimitrios Ntentia Resume (F).pdf](https://github.com/CallOfBeauty/ntentiad_resume/blob/main/Dimitrios%20Ntentia%20Resume%20(F).pdf)
+>
+> **Robotics** **\|** **Research** **\|** **Biomedical** **Engineering**
+> **\|** **Machine** **Learning** **\|** **Software** **Engineering**
+> [[dntentia@gmail.com]{.underline}](mailto:dntentia@gmail.com) \| +1
+> (859) 391-8281 \|
+> [[linkedin.com/in/dimitrios-ntentia-24b441233/]{.underline}](http://linkedin.com/in/dimitrios-ntentia-24b441233/)
 
-![](Aspose.Words.642c8175-63c6-49fd-88d2-bf8aedb152b6.001.png) [| dntentia@gmail.com | +](mailto:dntentia@gmail.com)1 (859) 391 8281 ![](Aspose.Words.642c8175-63c6-49fd-88d2-bf8aedb152b6.002.png)![](Aspose.Words.642c8175-63c6-49fd-88d2-bf8aedb152b6.003.png)
+**SKILLS**
+
+> • **Computer** **Languages**- C++, C, Visual Basic, Python (Pytorch,
+> Tensorflow, Keras), ROS, ROS-2, Arduino C++, HTML, Fusion 360
+>
+> • **Languages**- Greek (Native), Albanian (Native), English (Native),
+> French (Intermediate), Italian (Intermediate)
 
 **EDUCATION**
 
-**Berea College (BC) for Undergraduate studies; KY, USA** 2021-Present
+**Bachelor** **of** **Arts,** **Computer** **and** **Information**
+**Science,** **Minor** **in** **Biology**
 
-- Full scholarship recipient for Undergraduate studies
-- Major: Computer Science (BA) |  Minor: Biology (BA) 
-- Most recent semester GPA: 4.0 | Major GPA: 3.8
-- Expected early Graduation date: May 2024
-- Tuition Promise Scholarship - $224,000.00
+**Berea** **College** -- Berea, Kentucky *Expected* *Graduation-* *May*
+*2024* • GPA- 3.8, Spring 2023 Term GPA- 4.0
 
-**Anatolia College (AC) IB Diploma Program and MYP program; Thessaloniki, Greece** 2014-2020
+> • Full Promise Scholarship -- \$236,000+ for tuition, room, and board
 
-- Recipient of a 100% scholarship covering room, board, and tuition
-- Six (6) times recipient of the yearly Leading Academic Excellence Award (LAE)
+**Relevant** **Coursework**
 
-**Northfield Mount Hermon (NMH) Summer session; MA, USA** Summer 2018
+Autonomous Systems and AI (Fall 2023), Theory of Computation (Spring
+2023), Ecology (Spring 2023), Electricity and Electronics (Spring 2023),
+Programming Languages (Spring 2023), General Physics with Algebra
+(Summer 2022), Computational Intelligence (Fall 2022)
 
-- Courses: SAT prep and College-level writing (Grade: A)
-- Mathematics, Multivariate Calculus 
+**INTERNSHIP** **EXPERIENCE**
 
-**RESEARCH & INTERNSHIP EXPERIENCE**
+**Electrical** **Engineering** **Intern** (full time) *May* *2023* *--*
+*August* *2023* **Trane** **Technologies** -- Lexington, Kentucky
+(hybrid)
 
-**Electrical engineering Intern, Airside Sales Tools, TRANE Technologies; KY, USA** Summer 2023
+> • Conducted efficiency testing for current schematic processes
+>
+> • Developed solutions for highly engineered HVAC Trane patented
+> systems
+>
+> • Enlarged the processing capabilities of the automated schematic
+> drawing generator by 24**%**
 
-- Conducted efficiency testing for current schematic processes
-- Developed solutions for highly engineered HVAC Trane patented systems
-- Enlarged the processing capabilities of the automated schematic drawing generator by 24**%**
+**RESEARCH** **EXPERIENCE**
 
-**Undergraduate researcher, Collaborative Robotics Lab, Purdue University; IN, USA** Summer 2022
+**Undergraduate** **Research** **Assistant** (full-time) *May* *2022*
+*--* *July* *2022* **Purdue** **University** **Collaborative**
+**Robotics** **Laboratory** **(Mentor-** **Richard** **Voyles,**
+**Ph.D.)** -- Lafayette, Indiana
 
-- Implemented Artificial Intelligence and reinforcement learning to enhance task performance
-- Co-Authored Publication: ICRA23 TuPO2S-03.6 (Link: h[ttps://arxiv.org/abs/2307.02462)](https://arxiv.org/abs/2307.02462)
+> • Implemented Artificial Intelligence and reinforcement learning to
+> enhance task performance • Overperformed state of the art algorithms
+> by 25%
+>
+> • Co-Authored Publication: "Expert-Agnostic Ultrasound Image Quality
+> Assessment using • Deep Variational Clustering" (Link:
+> [[https://arxiv.org/abs/2307.02462]{.underline})](https://arxiv.org/abs/2307.02462)
 
-**Full-time participant, SoNIC summer research program, Cornell University, NY, USA** Summer 2022
+**Undergraduate** **Research** **Assistant** (full-time) *July* *2022*
+*--* *August* *2022* **Cornell** **University** **Computer** **&**
+**Information** **Systems** **Summer** **Research** **Program** --
+Ithaca, New York
 
-- Conducted concise Research project on Robotics and assistive technology
-- Gained exposure to cutting-edge computing research at the University
+> • Conducted concise Research project on Robotics and assistive
+> technology • Gained exposure to cutting-edge computing research at the
+> University
 
-**HONORS & AWARDS**
+**Undergraduate** **Research** **Assistant** *August* *2023* *--*
+*Present* **Berea** **College** **Computer** **Science** **Department**
+**(Mentor-** **Jasmine** **Jones,** **Ph.D.)** -- Berea, Kentucky
 
-Labor award of Exceptional Performance (Evaluation: >94%, Avg=72%)  2022-2023 Dean’s list, Berea College  2021-Present Mortar Board National College Senior Honor Society  2023
+> • Developed a cutting edge LLM and UI, taylor made for people with
+> dementia
+>
+> • Conducted extensive research and user studies in collaboration with
+> Lexington Memory Care
+>
+> • Authored publication in the making: Chi Conference: "Cognitive
+> stimulation therapy with AI-Enhanced memory integration for
+> individuals with Dementia"
+>
+> **Dimitrios** **Ntentia** \| +1 (859) 391-8281 \|
+> [[dntentia@gmail.com]{.underline}](mailto:dntentia@gmail.com)
 
-Sigma Kappa Honor society member  2023 
+**PROFESSIONAL** **EXPERIENCE**
 
-**LEADERSHIP EXPERIENCE & EXTRACURICCULAR**
+**Senior** **Dell** **Technologies** **Manager** (part-time) *August*
+*2021* *--* *Present* **Berea** **College** **Information** **&**
+**Technology** -- Berea, Kentucky
 
-**Senior Dell Technologies manager, IT department; KY** 2021-Present
+> • Supervised a diverse team of 15 technician specialists, providing
+> coordination and training • Managed updates and preservation of vital
+> institutional technologies
+>
+> • Improved service request times from 3 weeks to 4 days avg (by 375%)
 
-- Lead a team of 15 technician specialists, providing coordination and training
-- Managed updates and preservation of vital educational technologies
-- Oversaw logistics management
+**EXPERIENTIAL** **LEARNING** **OPPORTUNITIES**
 
-**American Solar Car Competition Mechanical Team Lead; Berea, KY** 2023-Present
+**Mechanical** **Team** **Lead,** **American** **Solar** **Car**
+**Competition** *August* *2022* *--* *Present* **Berea** **College**
+**Engineering** **Technologies** **&** **Applied** **Design** **(ETAD)**
+**Department** -- Berea, Kentucky
 
-- Spearheaded drafting and redesigning of critical car components (aero shield and chassis)
-- Ensured compliance with regulations through meticulous testing
+> • Spearheaded drafting and redesigning of critical car components
+> (aero shield and chassis) • Generated and conceptualized a knowledge
+> transfer pipeline
 
-**Co-organizer, Tech Ethics Roundtables, CS department; Berea College** 2022-Present
+**Co-Organizer,** **Tech** **Ethics** **Roundtable** *August* *2022*
+*--* *Present* **Berea** **College** **Computer** **Science**
+**Department** -- Berea, Kentucky
 
-- Coordinated with sponsors including Google and Alphabet
-- Hosted 15+ tech ethics talks with speakers from ACM, US military, NSA, etc.
-- Focused on enhancing civil discourse through public event organization 
+> • Coordinated with sponsors including Google, to enhance civil
+> discourse through public events • Hosted 20+ tech ethics talks with
+> speakers from ACM, US military, NSA, etc.
 
-**Co-Leader in Hackathon/Hack-a-class Workshops Initiative; Thessaloniki**  2018-2020
+**HONORS** **&** **AWARDS**
 
-- Organized programming classes inspired by college-level hackathons for middle and high  school students at Volos, Sparta, and Thessaloniki 
+> • Member, *Sigma* *Kappa*, National Computer Science Honor Society •
+> Member, Mortar Board National Honor Society
+>
+> • Berea College Dean's List for Academic Achievement
+>
+> • Berea College Student Employment Award for Exceptional Performance
 
-**ADDITIONAL SKILLS** 
+*April* *2023* *--* *Present* *April* *2023* *--* *Present*
 
-**Language**: Greek (Native), Albanian (Native), English (Native), French (Intermediate), Italian (Intermediate) 
-
-**Skills**: C++, C, Visual Basic, Python (Pytorch, Tensorflow, Keras), ROS, ROS-2, Arduino C++, HTML, Fusion 360                   
+> *2021* *--* *Present*
+>
+> *2022* *--* *2023*
